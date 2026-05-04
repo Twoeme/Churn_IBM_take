@@ -1,6 +1,6 @@
 # ChurnGuard (IBM Telco) — Churn_IBM_take
 
-Predict customer churn risk (30–90 days proxy) and translate it into estimated revenue impact, aligned with `RPD_Churn.md`.
+Predict customer churn risk (30–90 days proxy) and translate it into estimated revenue impact.
 
 ## What you get
 
